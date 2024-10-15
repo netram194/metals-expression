@@ -7,7 +7,14 @@ body {
 }
 
 h1 {
-    font-size: 34px;
+    font-size: 50px;
     color: rgb(76, 47, 47);
     text-align: center; /* Centers text */
+
+.dancing-script-<uniquifier> {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
 }
