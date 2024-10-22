@@ -4,10 +4,14 @@ body {
     align-items: center;
     height: 100vh; /* Centers vertically */
     margin: 0;
+    background-image: url("bangles.jpg");
+   
 }
 
 h1 {
     font-size: 50px;
     color: rgb(76, 47, 47);
     text-align: center; /* Centers text */
+    margin-top: -35%;
 }
+
