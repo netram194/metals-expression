@@ -2,16 +2,25 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Centers vertically */
+    height: 100vh; 
     margin: 0;
-    background-image: url("bangles.jpg");
-   
+    background-color: rgb(125, 123, 123);
+
+}
+.content-container {
+    text-align: center; 
 }
 
 h1 {
     font-size: 50px;
     color: rgb(76, 47, 47);
-    text-align: center; /* Centers text */
+    text-align: center; 
     margin-top: -35%;
+}
+
+.center-image {
+    display: block;
+    margin: 20px auto 0; 
+    width: 50%; 
 }
 

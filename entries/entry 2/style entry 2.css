@@ -1,0 +1,18 @@
+
+grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px; /* Space between columns */
+  text-align: center;
+}
+
+.grid-container figure {
+  margin: 0;
+  padding: 0;
+}
+
+.grid-container img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
